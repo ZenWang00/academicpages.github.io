@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zitian Wang"
   avatar           : "profile.jpg"
-  bio              : "I joined Thoughtworks as a Quality Engineer in 2022 after graduating from the Hubei University with a bachelor's degree in computer science and technology. I'm now getting ready for graduate school."
+  bio              : #""
   location         : "Wuhan"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
