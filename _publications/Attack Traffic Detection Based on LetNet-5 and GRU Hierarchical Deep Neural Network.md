@@ -2,14 +2,11 @@
 title: "Attack Traffic Detection Based on LetNet-5 and GRU Hierarchical Deep Neural Network"
 collection: publications
 permalink: /publication/Attack Traffic Detection Based on LetNet-5 and GRU Hierarchical Deep Neural Network
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper proposes a hierarchical network model based on LetNet-5 and GRU to detect attack traffic.'
 date: 2021-09-09
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/Wang2021_Chapter_AttackTrafficDetectionBasedOnL.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'WASA 2021'
+paperurl: 'https://doi.org/10.1007/978-3-030-86137-7_36'
+code: 'https://github.com/ZenWang00/AttackTrafficDetection-'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/Wang2021_Chapter_AttackTrafficDetectionBasedOnL.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
