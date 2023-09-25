@@ -13,6 +13,12 @@ Education
 ======
 * B.S. in Computer science and technology, Hubei University, 2018
 
+Publications
+======
+<ul>{% for post in site.publications %}
+{% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Work experience
 ======
 * Jan 2023 – present : Quality Engineer
@@ -60,7 +66,4 @@ Skills
 * Methodologies: Scrum
 * Development Tools: Github, Cypress, Postman, JMeter, Azure DevOps, Circle, Splunk , Datadog, AWS DevOps
 
-Publications
-======
-You can find my articles on my Google Scholar profile.
 
