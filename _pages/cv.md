@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer science and technology, Hubei University, 2018
+* B.S. in Computer science and technology, Hubei University, 2022
 
 Publications
 ======
