@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer science and technology, Hubei University, 2018 - 2022
-* M.A. in Computer engineering, Aarhus University,2024 - 2026(expected)
+* M.A. in Computer engineering, Aarhus University, 2024 - 2026 (expected)
 
 Publications
 ======
