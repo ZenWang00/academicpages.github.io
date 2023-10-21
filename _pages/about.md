@@ -10,9 +10,7 @@ redirect_from:
 
 This is Zen Wang's home on the web!
 
-I joined Thoughtworks as a Quality Engineer in 2022 after graduating from the Hubei University with a bachelor's degree in computer science and technology. While my current role as a Quality Engineer has been immensely rewarding, I am eager to explore new career possibilities and broaden my horizons. My ambition extends beyond my current role, and I am actively seeking opportunities that will allow me to leverage my current skills while also acquiring new ones. I am driven by the desire to contribute meaningfully to projects, explore fresh challenges, and evolve as a professional.
+I will be traveling to Aarhus University in February 2024 to begin graduate studies in computer engineering. During the period before the school year starts, I will learn C++ related development knowledge, and I will write a thesis on software testing as a summary of my previous year's work.Besides, I'm looking for possible industry internships or lab work, let me know if I fit your needs! 
 
-I will be traveling to Aarhus University in February 2024 to begin graduate studies in computer engineering.
-
-
+I love fitness outside of work, so if you have the same interest feel free to talk to me.
 
