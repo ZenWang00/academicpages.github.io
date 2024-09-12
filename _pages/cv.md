@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer science and technology, Hubei University, 2018 - 2022
+* M.S. in Informatics, Università della Svizzera italiana, 2024 - 2026
 
 
 Publications
@@ -22,23 +23,17 @@ Publications
 
 Work experience
 ======
-* Jan 2023 – Now : Quality Engineer
+* Aug 2022 – Jul 2024 : Quality Engineer
   * Thoughtworks
   * Duties included: 
-    * Developing and executing test strategies
-    * Writing regression and UI Tests with playwrite
-    * Introduce changes and constraints to improve project processes
-* Background:\
-  A heavy machinery auction company, Ritchie Bros. Auctioneers, is going through a digital transition. In this project, Zitian wang is in responsibility of the quality of the stripe platform integration as well as the login account integration of the business's original independent system.
+      * Developed and executed comprehensive test strategies, ensuring robust coverage for both functional and non-functional requirements.
+      * Specialized in writing regression and UI tests using Playwright and Cypress, contributing to automation frameworks that accelerated testing cycles and reduced manual effort.
+      * Introduced process improvements by identifying key constraints, resulting in optimized workflows and enhanced efficiency across projects.
+Ensured data accessibility and security compliance, aligning deliverables with both business and regulatory requirements.
+  * Key Projects:\
+    * Led the Stripe platform integration and login account integration as part of a digital transformation initiative, delivering a secure and seamless login experience while facilitating system migration.
 
-* Sep 2022 – Dec 2022 : Quality Engineer
-  * Thoughtworks
-  * Duties included: 
-    * Make sure data is accessible and that security compliance needs are met.
-    * Review business and development documentation, write and execute test cases.
-    * Design and execute automated tests using existing cypress automation frameworks.
-  * Background:\
-  Vialto is a separate business from PwC. Three significant systems must be removed as part of this operation, and data must also be moved. To suit Vialto's business requirements, the original system must be improved concurrently. Zitian Wang focuses mostly on the login between systems throughout this procedure.
+    * Spearheaded login integration between multiple systems during a significant transition, which involved the removal of legacy systems. Enhanced the original system to meet new business requirements, ensuring data security and accessibility throughout the process.
 
 Research experience
 ======
